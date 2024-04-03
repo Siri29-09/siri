@@ -6,3 +6,15 @@
     height:500px;
     background-color: aquamarine;
 }
+.input-group{
+    height: 15%;
+}
+.task-group{
+    height: 85%;
+    background-color: rgb(219, 127, 255);
+}
+#task-list ul li{
+    width: 280px;
+    height: 80px;
+    background-color: aliceblue;
+}

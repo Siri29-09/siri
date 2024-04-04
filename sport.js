@@ -19,22 +19,4 @@ taskList.addEventListener('click',(event)=>{
 })
 
 
-// function myFunction(callback) {
-//   let text = document.getElementById("task-input").value;
-  
-// callback(text)
 
-  
-// }
-
-// Btn1.addEventListener("click",()=>{
-//   myFunction((text)=>{
-//    const ulList = document.getElementById("task-list");
-//    const list = document.createElement("li");
-//    const content = document.createTextNode(text);
-//     list.append(content);
-//    ulList.appendChild(list);
-//    document.getElementById("task-input").value="";
-//   })
-// })
-// // 
